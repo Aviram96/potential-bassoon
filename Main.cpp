@@ -1,4 +1,4 @@
-
+#define _CRT_SECURE_NO_WARNINGS_
 #include<iostream>
 #include<fstream>
 #include<conio.h>
@@ -15,7 +15,7 @@ using namespace std;
 
 
 
-#define _CRT_SECURE_NO_WARNINGS_
+
 
 //*********************************************************
 //                   CLASS USED IN PROJECT
