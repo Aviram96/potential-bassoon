@@ -901,7 +901,7 @@ int main()
 		cout << "\n\n\t02. BOOK DEPOSIT";
 		cout << "\n\n\t03. ADMINISTRATOR MENU";
 		cout << "\n\n\t04. AVIRAM GAME - Bulls And cows";
-		cout << "\n\n\t05. CHACH SPECIAL DATE AND EXIT";
+		cout << "\n\n\t05. CHECK SPECIAL DATE AND EXIT";
 		cout << "\n\n\t06. EXIT";
 		cout << "\n\n     Please Select Your Option (1-6) ";
 		ch = getchar();
@@ -919,7 +919,7 @@ int main()
 			exit(0);
 			break;
 		case '6':
-				exit(0);
+			exit(0);
 		default:cout << "\a";
 		}
 		emptych = getchar();
