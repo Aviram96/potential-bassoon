@@ -926,5 +926,9 @@ int main()
 	} while (ch != '5' || ch != '6');
 
 
+	
+	cout<<"shalom";
+	
+	
 	return 0;
 }
